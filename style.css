@@ -60,7 +60,7 @@
     display: flex;
     justify-content: space-evenly;
     background-color: yellow;
-    width: 620px;
+    width: 500px;
     height: 40px;
     border-radius: 4px;
 }
@@ -146,7 +146,7 @@
 .hero-section{
     background-image: url("hero_image.jpg");
     background-size: cover;
-    height: 380px;
+    height: 300px;
     display: flex;
     justify-content: center;
     align-items: flex-end;
@@ -259,7 +259,7 @@ ul {
 .foot-panel4 {
     background-color: #0f1111;
     color: white;
-    height: 100px;
+    height: 80px;
     font-size: 0.7rem;
     text-align: center;
     
@@ -272,4 +272,14 @@ ul {
 
 .copyright {
     padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.self {
+    background-color: brown;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
 }
